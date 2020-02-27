@@ -1,0 +1,20 @@
+#mainChessBoard
+{
+    width:200px;
+    height:200px;
+    border:1px solid black;
+}
+
+div
+{
+ width:20px;
+ height:20px;
+ float:left;
+}
+
+span {
+  font-size: 30px;
+  width:100%;
+  margin: 0 0 30px 0;
+  display:inline-block;
+}
